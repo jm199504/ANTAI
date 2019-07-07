@@ -10,7 +10,7 @@
 
 ***4. Ranking the score of all items which the user may consider to buy them***
 
-**Example: **
+**Example:**
 
 User A : (Item a，Item c,Item d)
 
