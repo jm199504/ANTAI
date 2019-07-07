@@ -10,11 +10,16 @@
 
 ***4. Ranking the score of all items which the user may consider to buy them***
 
-Example: 
+**Example: **
+
 User A : (Item a，Item c,Item d)
+
 User B : (Item a，Item b,Item e)
+
 User C : (Item b，Item c,Item f)
+
 User D : (Item a，Item c,Item g)
+
 User E : (Item e，Item f,Item g)
 
 Purpose: Predict User A will buy what items
