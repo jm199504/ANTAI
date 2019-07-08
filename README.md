@@ -22,7 +22,7 @@ User D : (Item a，Item c,Item g)
 
 User E : (Item e，Item f,Item g)
 
-Purpose: Predict User A will buy what items
+Purpose: What items will User_ A buy ?
 
 Firstly, finding A's friends who have one of the same item,  and resulting as user B, C and D.
 
