@@ -1,4 +1,4 @@
-## ANTAI (Jimmy.Guo)
+## ANTAI
 
 **Method - 1**
 
