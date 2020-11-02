@@ -33,9 +33,9 @@ Secondly, calculating the score of each items of user A, using Jaccard distance 
 ②Jaccard(A,B) = {A.items ∩ B.items} / {A.items ∪ B.items} = {a} / {a,c,d,b,e} = 1/5
 
 ②Jaccard(A,C) = {A.items ∩ C.items} / {A.items ∪ C.items} = {c} / {a,c,d,b,f} = 1/5
- 
+
 ②Jaccard(A,D) = {A.items ∩ D.items} / {A.items ∪ D.items} = {a,c} / {a,c,d,g} = 1/2
- 
+
 Next, calculating the score of each item of user A.
 
 ③Score(a) += {if a in friends'items} * Jaccard(A,friends) => Score(a) = Jaccard(A,B) + Jaccard(A,D) = 1/5 + 1/2 = 7/10
@@ -47,3 +47,7 @@ Next, calculating the score of each item of user A.
 Finally, ranking the score of user A's all itemms.
 
 ④ a = c > d > b = e = f =g
+
+---
+
+:business_suit_levitating:junmingguo
